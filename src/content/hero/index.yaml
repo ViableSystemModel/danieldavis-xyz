@@ -1,33 +1,17 @@
-name: 🌻 Bloomfolio
-title: Astro Portfolio Template built with 🌼 DaisyUI
+name: Daniel Davis
+title: Code person, musicker, believer in the rule of threes
 description: >-
-  A modern, responsive, and customizable portfolio template built with Astro and
-  DaisyUI. Perfect for developers, designers, and creatives to showcase their
-  work and skills.
+  Sensible PHP dev by day. Hypebeast Typescript dev by night. Always trying to
+  learn new things.
 avatar: '@assets/hero/avatar.png'
-location: 🇧🇷 Brazil
+location: 🇺🇸 U.S.
 socialLinks:
-  - url: mailto:hello@example.com
+  - url: mailto:emailaddressofdanieldavis@gmail.com
     icon: Email
     label: Email
-  - url: https://github.com/lauroguedes
+  - url: https://github.com/ViableSystemModel
     icon: GitHub
     label: GitHub
-  - url: https://linkedin.com/in/lauroguedes
+  - url: https://www.linkedin.com/in/viablesystemmodel
     icon: LinkedIn
     label: LinkedIn
-  - url: https://twitter.com/leowg
-    icon: Twitter
-    label: X (Twitter)
-  - url: https://bsky.app/profile/lauroguedes.bsky.social
-    icon: Bluesky
-    label: Bluesky
-  - url: https://instagram.com/lauroguedes.dev
-    icon: Instagram
-    label: Instagram
-  - url: https://youtube.com/leowgweb
-    icon: YouTube
-    label: YouTube
-  - url: https://codetips.cloud/u/lauroguedes
-    icon: FolderCode
-    label: CodeTips

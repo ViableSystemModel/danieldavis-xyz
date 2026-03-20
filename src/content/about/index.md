@@ -1,8 +1,8 @@
 ---
 title: About Me
 photo: '@assets/about/photo.png'
-link: https://linkedin.com/in/lauroguedes
+link: https://www.linkedin.com/in/viablesystemmodel
 ---
-My toolkit revolves around the **Laravel and Vue JS** ecosystem. I enjoy crafting everything from robust APIs and full-stack applications to open-source tools like the [Mary UI Laravel Starter Kit](https://github.com/lauroguedes/mary-ui-starter-kit) and [Bloomfolio](https://github.com/lauroguedes/bloomfolio), an Astro portfolio template that's been forked dozens of times.
+I spent years automating various processes within jobs I held, first via Python, then later via Google Apps Script. Eventually, my script writing graduated into a full development position writing PHP, jQuery, and Typescript. My side projects have brought me through a dozen different languages and even more frameworks, but lately I've really been enjoying using React with Convex.
 
-When I'm not coding, I'm probably exploring AI art, traveling, or listening to 🎸 heavy music way too loud.
+In my free time, I hang out with my family and play Dungeons and Dragons (although not at the same time, unfortunately)

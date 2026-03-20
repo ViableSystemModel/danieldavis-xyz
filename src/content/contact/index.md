@@ -1,10 +1,10 @@
 ---
 icon: MessageCircleCode
-linkUrl: https://x.com/leowg
-linkText: with a direct question on X (twitter)
+linkUrl: https://www.linkedin.com/in/viablesystemmodel
+linkText: send me a message on LinkedIn
 footerIcon: Pickaxe
-footerText: Crafted by an Artisan
+footerText: Astro template created by
 footerLinkText: Lauro Guedes
 footerLinkUrl: https://lauroguedes.dev
 ---
-Want to chat? shoot me a dm
+Want to chat? Send me an email or
